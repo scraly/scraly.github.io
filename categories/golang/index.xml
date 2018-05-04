@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scraly tech blog</title>
-    <link>https://scraly.github.io/</link>
-    <description>Recent content on Scraly tech blog</description>
+    <title>Golang on Scraly tech blog</title>
+    <link>https://scraly.github.io/categories/golang/</link>
+    <description>Recent content in Golang on Scraly tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://scraly.com&#34;&gt;Aurélie Vache&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Thu, 03 May 2018 07:36:32 +0200</lastBuildDate>
     
-	<atom:link href="https://scraly.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scraly.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://scraly.github.io/posts/struggle-with-librdkafka/</guid>
       <description>The beginning For an event driven microservice project in golang that was supposed to communicate with the Kafka message broker, among other things, I decided to use the confluent kafka go client. To connect to a Kafka and create a producer and / or a consumer, the grip is super fast. Perfect. Ah &amp;hellip; but you have to use a librdkafka library. Whats is that?
  librdkafka is the Apache Kafka C/C++ library.</description>
-    </item>
-    
-    <item>
-      <title>When I grow up I would like ...</title>
-      <link>https://scraly.github.io/posts/wish-list/</link>
-      <pubDate>Tue, 01 May 2018 18:31:14 +0200</pubDate>
-      
-      <guid>https://scraly.github.io/posts/wish-list/</guid>
-      <description>Several years ago, if I had been asked what I would have liked to do when I grew up, I think I would never have thought of making the list that you will see below.
-I have been a developer for more than 12 years, doing Front, back, devops, big data and a period as lead developer. I am passionate about my work and I like to share with others. This thirst for sharing and mutual help made me immerse myself in associative work and communities of developers and meetups.</description>
     </item>
     
   </channel>
