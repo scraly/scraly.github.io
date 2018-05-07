@@ -57,5 +57,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Terraform</title>
+      <link>https://scraly.github.io/tags/terraform/</link>
+      <pubDate>Sat, 05 May 2018 16:09:09 +0200</pubDate>
+      
+      <guid>https://scraly.github.io/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workspaces</title>
+      <link>https://scraly.github.io/tags/workspaces/</link>
+      <pubDate>Sat, 05 May 2018 16:09:09 +0200</pubDate>
+      
+      <guid>https://scraly.github.io/tags/workspaces/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

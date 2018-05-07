@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Devops</title>
+      <link>https://scraly.github.io/categories/devops/</link>
+      <pubDate>Sat, 05 May 2018 16:09:09 +0200</pubDate>
+      
+      <guid>https://scraly.github.io/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Golang</title>
       <link>https://scraly.github.io/categories/golang/</link>
       <pubDate>Thu, 03 May 2018 07:36:32 +0200</pubDate>
@@ -26,6 +35,15 @@
       <pubDate>Tue, 01 May 2018 18:31:14 +0200</pubDate>
       
       <guid>https://scraly.github.io/categories/myself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://scraly.github.io/categories/terraform/</link>
+      <pubDate>Sat, 05 May 2018 16:09:09 +0200</pubDate>
+      
+      <guid>https://scraly.github.io/categories/terraform/</guid>
       <description></description>
     </item>
     
